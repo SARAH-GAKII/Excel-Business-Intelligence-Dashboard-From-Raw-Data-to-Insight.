@@ -15,6 +15,8 @@ This project showcases advanced Excel skills applied to a structured financial d
   - Interactive dashboard with slicers
  
   - ![Dashboard Preview](Dashboard_Preview.png)
+  > 🔍 A snapshot of the interactive dashboard with slicers and dynamic charts
+
 
 ## 📁 File Included
 
