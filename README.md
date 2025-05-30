@@ -13,6 +13,8 @@ This project showcases advanced Excel skills applied to a structured financial d
   - PivotTables for dynamic analysis
   - Visualizations: bar, pie, and line charts
   - Interactive dashboard with slicers
+ 
+  - ![Dashboard Preview](Dashboard_Preview.png)
 
 ## 📁 File Included
 
