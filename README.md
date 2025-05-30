@@ -1,4 +1,4 @@
-# Excel Portfolio Project 📊
+# Excel Financial Analysis Portfolio Project 📊
 
 This project showcases advanced Excel skills applied to a structured financial dataset. It includes data analysis, custom calculations, and interactive dashboards.
 
