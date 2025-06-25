@@ -1,6 +1,6 @@
 # Excel Financial Analysis Project 📊
 
-This project showcases advanced Excel skills applied to a structured financial dataset. It includes data analysis, custom calculations, and interactive dashboards.
+This project showcases advanced Excel skills applied to a structured financial dataset. It includes data analysis, custom calculations, and an interactive dashboard.
 
 ## Project Overview
 
