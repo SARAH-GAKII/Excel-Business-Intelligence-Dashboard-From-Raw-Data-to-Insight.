@@ -2,7 +2,7 @@
 
 This project showcases advanced Excel skills applied to a structured financial dataset. It includes data analysis, custom calculations, and interactive dashboards.
 
-## 🔍 Project Overview
+## Project Overview
 
 - **Dataset**: Financial data for 5 regions and 6 products over a 12-month period
 - **Key Activities**:
@@ -15,22 +15,22 @@ This project showcases advanced Excel skills applied to a structured financial d
   - Interactive dashboard with slicers
  
   - ![Dashboard Preview](Dashboard_Preview.png)
-  > 🔍 A snapshot of the interactive dashboard with slicers and dynamic charts
+  > A snapshot of the interactive dashboard with slicers and dynamic charts
 
 
-## 📁 File Included
+## File Included
 
 - `Financial_Dataset.xlsx` – Fully structured Excel workbook with labeled sheets and interactive elements
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
-- ✅ Advanced formula use 
-- ✅ Data organization and professional formatting
-- ✅ Insight extraction using PivotTables
-- ✅ Dynamic dashboards with visual storytelling
-- ✅ Business logic and real-world application
+- Advanced formula use 
+- Data organization and professional formatting
+- Insight extraction using PivotTables
+- Dynamic dashboards with visual storytelling
+- Business logic and real-world application
 
-## 🧠 Use Case
+## Use Case
 
 This project is intended to demonstrate:
 - Strong proficiency in Excel for business and data tasks
