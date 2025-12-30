@@ -14,7 +14,7 @@ This project showcases advanced Excel skills applied to a structured financial d
   - Visualizations: bar, pie, and line charts
   - Interactive dashboard with slicers
  
-  - ![Dashboard Preview](excel-bi-project.png)
+  - ![Dashboard Preview](excel-bi-project-thumbnail.png)
   > A snapshot of the project
 
 
